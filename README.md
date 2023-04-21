@@ -1,3 +1,3 @@
 # optimizing-spam-filter
 
-video demonstration - file:///C:/Users/ELCOT/Desktop/optimizing-spam-filter-main/OPTIMIZING%20SPAM%20FILTER/FLASK/static/video.github
+video demonstration - https://github.com/karthibk02/optimizing-spam-filter/edit/main/README.md
